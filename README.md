@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋, This is Kartik  
 
-<!--
-**KartikSherwal/KartikSherwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.Tech @ IIT (BHU) Varanasi  
+- 🤖 Exploring AI/ML and building real-world projects  
+- 💻 Python Developer | Love creating from scratch  
+- 🚀 Currently working on ideas like Craft2Hire  
+- 🌱 Always learning, experimenting, and improving  
 
-Here are some ideas to get you started:
+💬 Ask me about my projects or anything tech-related  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:  
+- Email: your-email@gmail.com  
+- LinkedIn: your-linkedin-link  
+
+⚡ Fun fact: I started coding by building games and now I enjoy solving real-world problems with code  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KartikSherwal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="KartikSherwal" />
