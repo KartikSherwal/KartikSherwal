@@ -9,8 +9,6 @@ Hi there 👋, This is Kartik
 💬 Ask me about my projects or anything tech-related  
 
 📫 How to reach me:  
-- Email: your-email@gmail.com  
-- LinkedIn: your-linkedin-link  
-
-⚡ Fun fact: I started coding by building games and now I enjoy solving real-world problems with code  
+- Email: kartik.sherwal16@gmail.com 
+- LinkedIn: linkedin.com/in/kartik-sherwal   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KartikSherwal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="KartikSherwal" />
