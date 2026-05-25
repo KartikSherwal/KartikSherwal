@@ -11,4 +11,3 @@ Hi there 👋, This is Kartik
 📫 How to reach me:  
 - Email: kartik.sherwal16@gmail.com 
 - LinkedIn: linkedin.com/in/kartik-sherwal   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KartikSherwal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="KartikSherwal" />
