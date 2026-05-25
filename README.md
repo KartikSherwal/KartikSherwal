@@ -3,7 +3,6 @@ Hi there 👋, This is Kartik
 - 🎓 B.Tech @ IIT (BHU) Varanasi  
 - 🤖 Exploring AI/ML and building real-world projects  
 - 💻 Python Developer | Love creating from scratch  
-- 🚀 Currently working on ideas like Craft2Hire  
 - 🌱 Always learning, experimenting, and improving  
 
 💬 Ask me about my projects or anything tech-related  
